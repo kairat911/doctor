@@ -52,7 +52,7 @@ header a {
 }
 main {
   height: 85%;
-  background-image: url(./../ur/ba.svg);
+  background-image: url(./ur/ba.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -133,7 +133,7 @@ main {
   padding-top: 20vh;
 }
 .slaid div {
-  background-image: url(./../ur/ba2.svg);
+  background-image: url(./ur/ba2.svg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -213,7 +213,7 @@ main {
   align-content: space-around;
   justify-content: center;
   height: 95%;
-  background-image: url(./../ur/q0.jpg);
+  background-image: url(./ur/q0.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -388,7 +388,7 @@ main {
 }
 .office div{
     height: 700px;
-    background-image: url(./../ur/big3.svg);
+    background-image: url(./ur/big3.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
